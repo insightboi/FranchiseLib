@@ -1,0 +1,2034 @@
+Analyse every disconnected component
+
+Final Fantasy
+
+Component A
+- Final Fantasy VII: Advent Children
+
+Component B
+- Final Fantasy: The Spirits Within
+
+Reason:
+Canonical normalization mismatch.
+
+Analyse enrichment
+
+MAL ID: 21
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 59
+
+MAL ID: 48
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 8
+
+MAL ID: 320
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 49
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 304
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 306
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 53
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 47
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 591
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 54
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 55
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 56
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 57
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 368
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 68
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 889
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1519
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 58
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1222
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 458
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 406
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1689
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 59
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1780
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 60
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2167
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 6
+
+MAL ID: 1818
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 1575
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 10
+
+MAL ID: 841
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 289
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 1
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 5
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 62
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 61
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 2025
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 63
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 14837
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 296
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 226
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 393
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 356
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 12
+
+MAL ID: 317
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 1361
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 227
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 120
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 71
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 6
+
+MAL ID: 73
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 1015
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 72
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 122
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 121
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 382
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2890
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 239
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 384
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 240
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2508
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1813
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 132
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 1571
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 476
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 241
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 268
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 188
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 245
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 133
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 297
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 267
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 266
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 16
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 263
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 264
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 265
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 5258
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 19647
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 403
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 318
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 319
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 259
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 260
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 261
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 262
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 15809
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1030
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 270
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 5630
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 135
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 258
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 256
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 431
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 17
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 136
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 11061
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 8
+
+MAL ID: 138
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 139
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 137
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 248
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 637
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 257
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 160
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 185
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 6
+
+MAL ID: 18
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 186
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 187
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 249
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 8
+
+MAL ID: 570
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 253
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 255
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 153
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 144
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 33
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 218
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 219
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 93
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 9
+
+MAL ID: 52
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 147
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 32281
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 2927
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 486
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 146
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 412
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 43
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 433
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 416
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 220
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 97
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 207
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 189
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 190
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 191
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 192
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2034
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 193
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 194
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 576
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 276
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 627
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 558
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1842
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 361
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 221
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 330
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 585
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 164
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 19
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 3001
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 457
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 316
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 877
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 20
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 11
+
+MAL ID: 936
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1735
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 17
+
+MAL ID: 622
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 597
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1210
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 1698
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 30276
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 195
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 196
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 12355
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 2966
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 6007
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2159
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 853
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 2112
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 1943
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 322
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 161
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 213
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 214
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 215
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 329
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 212
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 211
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 208
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 165
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 210
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 710
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 917
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 197
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 45
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 9
+
+MAL ID: 46
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 401
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 44
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 168
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 205
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 2476
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 24
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 517
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 167
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 400
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 290
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1827
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 199
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2104
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1559
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 217
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 90
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 8
+
+MAL ID: 16498
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 10
+
+MAL ID: 25777
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 169
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 30
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 11
+
+MAL ID: 32
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 31
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 170
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 478
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 198
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 565
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 25
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 390
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 849
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 2001
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 7
+
+MAL ID: 174
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 182
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 51
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 200
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 16870
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2236
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 916
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 523
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 415
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 6
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 10162
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 842
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 180
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 181
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 201
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 7
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 202
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1023
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 203
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1562
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 204
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 392
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 7
+
+MAL ID: 269
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 10
+
+MAL ID: 790
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 15
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 5341
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1699
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 2993
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2605
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 22
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 11
+
+MAL ID: 50
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 394
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 101
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 857
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 281
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 477
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 66
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 3407
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 150
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 8
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 159
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 2904
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 8
+
+MAL ID: 1482
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1535
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2164
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 813
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 34
+
+MAL ID: 2795
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 455
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 395
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 127
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 129
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 487
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 246
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 411
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 3002
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1570
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2026
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 777
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 379
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2002
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 934
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 6
+
+MAL ID: 940
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 863
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1530
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 145
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1604
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 572
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 2602
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 845
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 274
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 18679
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 3229
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2403
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 237
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 275
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 277
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 157
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 273
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 98
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1453
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 3226
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 860
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 235
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 69
+
+MAL ID: 222
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 2963
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 32182
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 323
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 3655
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 1722
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 4081
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 272
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 1538
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 31240
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 9
+
+MAL ID: 23
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 64
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 114
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 166
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 846
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 396
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 355
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 6
+
+MAL ID: 154
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 79
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1965
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 75
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 3588
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1568
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 391
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 513
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 26
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 472
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 3455
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1860
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 27
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 2129
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 1198
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 178
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 3457
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 278
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 183
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 861
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 7
+
+MAL ID: 28
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 1195
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 29
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 9776
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 3090
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 9201
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 24833
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 7
+
+MAL ID: 2251
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1589
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1686
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 762
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 834
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 31964
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1690
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 10800
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 6573
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 974
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 31163
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2759
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 3784
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 31931
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 5114
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 430
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 918
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 12
+
+MAL ID: 28977
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 2494
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 1142
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 37141
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 6372
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 6637
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1889
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 578
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 811
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 15059
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 3701
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 389
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 24439
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 1087
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 22535
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 1067
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 28851
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 4186
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1887
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 5
+
+MAL ID: 5028
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2246
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 4151
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 4477
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 1029
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 34134
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 402
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 107
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 437
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 559
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1608
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 4163
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 28171
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 35839
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 0
+
+MAL ID: 4382
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 817
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 1555
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 3
+
+MAL ID: 4106
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 177
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 9
+
+MAL ID: 11113
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+MAL ID: 856
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 4
+
+MAL ID: 2608
+AniList ID: Not Found
+Enrichment: Failure
+Number of relations returned: 0
+
+MAL ID: 798
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 2
+
+MAL ID: 2404
+AniList ID: Found
+Enrichment: Success
+Number of relations returned: 1
+
+Analyse graph connectivity
+
+Number of connected components: 312
+Largest component: Fighting Spirit (5 entries)
+Singleton components: 261
+Components sharing nearly identical canonical titles: Final Fantasy
+
+Analyse canonical title generation
+
+Final Fantasy VII: Advent Children
+↓
+final fantasy vii advent children
+↓
+final fantasy vii advent children, final fantasy vii
+
+Final Fantasy: The Spirits Within
+↓
+final fantasy the spirits within
+↓
+final fantasy the spirits within, final fantasy
+
+Produce a root cause
+
+Final Fantasy: Canonical normalization mismatch

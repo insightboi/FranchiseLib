@@ -1,0 +1,8 @@
+{
+  "name": "Remix3 fix Anime Franchise Library",
+  "description": "Transform your AniList anime list into a clean franchise-based library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

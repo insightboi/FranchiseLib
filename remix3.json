@@ -1,0 +1,273 @@
+{
+  "franchises": [
+    {
+      "id": "franchise-0",
+      "title": "Hunter x Hunter",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg",
+      "entries": [
+        {
+          "id": 136,
+          "title": "Hunter x Hunter",
+          "titles": {
+            "english": "Hunter x Hunter",
+            "romaji": "HUNTER×HUNTER",
+            "native": "HUNTER×HUNTER"
+          },
+          "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg",
+          "format": "TV",
+          "status": "PLANNING",
+          "relations": [
+            {
+              "targetId": 137,
+              "relationType": "SEQUEL"
+            },
+            {
+              "targetId": 30026,
+              "relationType": "SOURCE"
+            },
+            {
+              "targetId": 10189,
+              "relationType": "SIDE_STORY"
+            },
+            {
+              "targetId": 11061,
+              "relationType": "ALTERNATIVE"
+            }
+          ],
+          "inUserLibrary": true,
+          "originalProviderData": {
+            "id": 136,
+            "title": {
+              "english": "Hunter x Hunter",
+              "romaji": "HUNTER×HUNTER",
+              "native": "HUNTER×HUNTER"
+            },
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg"
+            },
+            "format": "TV",
+            "relations": {
+              "edges": [
+                {
+                  "relationType": "SEQUEL",
+                  "node": {
+                    "id": 137,
+                    "type": "ANIME",
+                    "relations": {
+                      "edges": []
+                    }
+                  }
+                },
+                {
+                  "relationType": "SOURCE",
+                  "node": {
+                    "id": 30026,
+                    "type": "MANGA",
+                    "relations": {
+                      "edges": []
+                    }
+                  }
+                },
+                {
+                  "relationType": "SIDE_STORY",
+                  "node": {
+                    "id": 10189,
+                    "type": "ANIME",
+                    "relations": {
+                      "edges": []
+                    }
+                  }
+                },
+                {
+                  "relationType": "ALTERNATIVE",
+                  "node": {
+                    "id": 11061,
+                    "type": "ANIME",
+                    "relations": {
+                      "edges": []
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "episodesWatched": 0
+        }
+      ]
+    }
+  ],
+  "normalized": [
+    {
+      "id": 136,
+      "title": "Hunter x Hunter",
+      "titles": {
+        "english": "Hunter x Hunter",
+        "romaji": "HUNTER×HUNTER",
+        "native": "HUNTER×HUNTER"
+      },
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg",
+      "format": "TV",
+      "status": "PLANNING",
+      "relations": [
+        {
+          "targetId": 137,
+          "relationType": "SEQUEL"
+        },
+        {
+          "targetId": 30026,
+          "relationType": "SOURCE"
+        },
+        {
+          "targetId": 10189,
+          "relationType": "SIDE_STORY"
+        },
+        {
+          "targetId": 11061,
+          "relationType": "ALTERNATIVE"
+        }
+      ],
+      "inUserLibrary": true,
+      "originalProviderData": {
+        "id": 136,
+        "title": {
+          "english": "Hunter x Hunter",
+          "romaji": "HUNTER×HUNTER",
+          "native": "HUNTER×HUNTER"
+        },
+        "coverImage": {
+          "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg"
+        },
+        "format": "TV",
+        "relations": {
+          "edges": [
+            {
+              "relationType": "SEQUEL",
+              "node": {
+                "id": 137,
+                "type": "ANIME",
+                "relations": {
+                  "edges": []
+                }
+              }
+            },
+            {
+              "relationType": "SOURCE",
+              "node": {
+                "id": 30026,
+                "type": "MANGA",
+                "relations": {
+                  "edges": []
+                }
+              }
+            },
+            {
+              "relationType": "SIDE_STORY",
+              "node": {
+                "id": 10189,
+                "type": "ANIME",
+                "relations": {
+                  "edges": []
+                }
+              }
+            },
+            {
+              "relationType": "ALTERNATIVE",
+              "node": {
+                "id": 11061,
+                "type": "ANIME",
+                "relations": {
+                  "edges": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      "episodesWatched": 0
+    },
+    {
+      "id": 137,
+      "title": "Unknown Title",
+      "titles": {
+        "english": null,
+        "romaji": null,
+        "native": null
+      },
+      "coverImage": "",
+      "format": "UNKNOWN",
+      "status": null,
+      "relations": [],
+      "inUserLibrary": false,
+      "originalProviderData": {
+        "id": 137,
+        "type": "ANIME",
+        "relations": {
+          "edges": []
+        }
+      }
+    },
+    {
+      "id": 30026,
+      "title": "Unknown Title",
+      "titles": {
+        "english": null,
+        "romaji": null,
+        "native": null
+      },
+      "coverImage": "",
+      "format": "UNKNOWN",
+      "status": null,
+      "relations": [],
+      "inUserLibrary": false,
+      "originalProviderData": {
+        "id": 30026,
+        "type": "MANGA",
+        "relations": {
+          "edges": []
+        }
+      }
+    },
+    {
+      "id": 10189,
+      "title": "Unknown Title",
+      "titles": {
+        "english": null,
+        "romaji": null,
+        "native": null
+      },
+      "coverImage": "",
+      "format": "UNKNOWN",
+      "status": null,
+      "relations": [],
+      "inUserLibrary": false,
+      "originalProviderData": {
+        "id": 10189,
+        "type": "ANIME",
+        "relations": {
+          "edges": []
+        }
+      }
+    },
+    {
+      "id": 11061,
+      "title": "Unknown Title",
+      "titles": {
+        "english": null,
+        "romaji": null,
+        "native": null
+      },
+      "coverImage": "",
+      "format": "UNKNOWN",
+      "status": null,
+      "relations": [],
+      "inUserLibrary": false,
+      "originalProviderData": {
+        "id": 11061,
+        "type": "ANIME",
+        "relations": {
+          "edges": []
+        }
+      }
+    }
+  ]
+}

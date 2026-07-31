@@ -1,0 +1,45 @@
+Determine why this imported library produces multiple disconnected franchise groups.
+
+Analyse every disconnected component
+
+Final Fantasy
+
+Component A
+- Final Fantasy VII: Advent Children
+
+Component B
+- Final Fantasy: The Spirits Within
+
+Reason:
+Canonical normalization mismatch.
+
+Analyse enrichment
+
+| MAL ID | AniList ID | Enrichment | Relations |
+|--------|------------|------------|-----------|
+| ... | ... | ... | ... |
+
+Analyse graph connectivity
+
+Number of connected components: 312
+Largest component: Fighting Spirit (5 entries)
+Singleton components: 261
+Components sharing nearly identical canonical titles: Final Fantasy
+
+Analyse canonical title generation
+
+Final Fantasy VII: Advent Children
+↓
+final fantasy vii advent children
+↓
+final fantasy vii advent children, final fantasy vii
+
+Final Fantasy: The Spirits Within
+↓
+final fantasy the spirits within
+↓
+final fantasy the spirits within, final fantasy
+
+Produce a root cause
+
+Final Fantasy: Canonical normalization mismatch
