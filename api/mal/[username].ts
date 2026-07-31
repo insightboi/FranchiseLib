@@ -20,7 +20,7 @@ export default async function handler(
 
             if (!response.ok) {
                 if (allData.length > 0) break; // If we got some data, just break on error. Otherwise fail.
-                return res.status(response.status).json({ error: `MyAnimeList API error: ${response.statusText}` });
+                return res.status(response.status).json({ error: `MyAnimeList API error: ${response.status} ${response.statusText}` });
             }
 
             const contentType = response.headers.get("content-type");
@@ -47,6 +47,6 @@ export default async function handler(
         res.json(allData);
     } catch (error) {
         console.error("MAL API Proxy Error:", error);
-        res.status(500).json({ error: "Internal server error while fetching MAL data" });
+        res.status(500).json({ error: "Internal server error while fetching MAL data." });
     }
 }
